@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Da-Inn Erika Lee
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Biomedical Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Wisconsin - Madison
+  url: "https://grad.wisc.edu/"
+- name: Department of Biostatistics and Medical Informatics
+  url: "https://biostat.wisc.edu"
+- name: Roy Lab
+  url: "https://roylab.discovery.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Dimension Reduction
+- Manifold Learning
+- Interpretable Models
+- 3D Genome
+- Microbiome
+- Single-cell omics
+- Electronic Health Records
 
 education:
   courses:
@@ -65,11 +73,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in Biomedical Data Science at the University of Wisconsin - Madison, working in Sushmita Roy’s lab. Our lab specializes in developing computational tools to gain insight from large biological networks. My current project involves learning the organizational principles of how the DNA folds itself inside the cell, and how this in turn builds a scaffolding for gene regulatory networks. 
