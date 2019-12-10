@@ -75,4 +75,4 @@ user_groups: []
 # - Visitors
 ---
 
-I am a PhD student in [Biomedical Data Science] (https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab] (https://roylab.discovery.wisc.edu/). Our lab specializes in developing computational tools to gain insight from large biological networks. My current project involves learning the organizational principles of how the DNA folds itself inside the cell, and how this in turn builds a scaffolding for gene regulatory networks.
+I am a PhD student in [Biomedical Data Science](https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab](https://roylab.discovery.wisc.edu/). Our lab specializes in developing computational tools to gain insight from large biological networks. My current project involves learning the organizational principles of how the DNA folds itself inside the cell, and how this in turn builds a scaffolding for gene regulatory networks.
