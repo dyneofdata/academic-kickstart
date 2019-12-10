@@ -1,0 +1,29 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Awards widget -->
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+    {{ if $page.Params.award }}
+    {{ $exp_len := len $page.Params.award }}
+    {{ range $idx, $key := sort $page.Params.award ".date_start" "desc" }}
+    <div class="pub-list-item" style="margin-bottom: 2rem">
+      
+      <h3 class="article-title mb-0 mt-0" style="font-size:1rem" ><i class="fas fa-award pub-icon" aria-hidden="true" style="color:#417E6C"></i> {{ .title }}</h3>
+      <div itemprop="startDate" class="stream-meta article-metadata" style="margin-top:0.25rem">
+        {{ (time .date_start).Format ($page.Params.date_format | default "2006") }}
+      </div>
+      <div class="talk-metadata" style="margin-top:0.1rem; line-height:1.1rem">
+        {{ .description | markdownify }}
+      </div>
+    </div>
+    {{end}}
+    {{end}}
+  </div>
+</div>
