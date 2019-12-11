@@ -8997,3 +8997,8 @@ div.mermaid {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem; }
+
+.contact-widget li {
+  padding-top: 1.1rem;
+  /* Align text with bottom of `fa-2x` icon. */
+  margin-bottom: 0.3rem; }
