@@ -55,7 +55,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dyneofdata
-- icon: linked
+- icon: linkedin
   icon_pack: fab
   line: https://www.linkedin.com/in/dainnlee/
   
