@@ -17,7 +17,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Da-Inn Erika Lee", "Lynn Liu"]
+authors: ["Da-Inn Erika Lee", "Srujana .", "Chung-an Huang"]
 tags: ["Machine Learning"]
 
 # Is this a featured talk? (true/false)
