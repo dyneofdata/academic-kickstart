@@ -1,6 +1,6 @@
 ---
 title: "Scratch coding club leader at Falk Elementary School"
-icon: "fa-chalkboard-teacher"
+icon: "fa-hands-helping"
 event: Scratch Coding Club
 event_url: ""
 location: Madison, WI, Unites States.
