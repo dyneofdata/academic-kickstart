@@ -30,9 +30,9 @@ featured: false
 links: 
 - icon: link
   icon_pack: fas
-  name: Projects
+  name: Scratch Projects
   url: https://scratch.mit.edu/studios/25419393/
-url_code: https://scratch.mit.edu/studios/25419393/
+url_code:
 url_pdf: ""
 url_slides: ""
 url_video: ""
