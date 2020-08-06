@@ -28,6 +28,10 @@ featured: false
 #  focal_point: Right
 
 links: 
+- icon: link
+  icon_pack: fas
+  name: Projects
+  url: https://scratch.mit.edu/studios/25419393/
 url_code: https://scratch.mit.edu/studios/25419393/
 url_pdf: ""
 url_slides: ""

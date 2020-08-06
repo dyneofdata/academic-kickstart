@@ -4,7 +4,7 @@ icon: "fa-hands-helping"
 event: "Maydm middle school programs: STEM Power is Girl Power (STEM Sampler) and Wonderful World of Web Development"
 event_url: ""
 location: Madison, WI, Unites States.
-summary: "Mentor for middle school students participating in two Maydm summer STEM online camps: STEM Power is Girl Power (STEP Sampler) and Wonderful World of Web Development"
+summary: "Mentor for middle school students participating in two Maydm STEM camps: STEM Power is Girl Power and Wonderful World of Web Development"
 abstract: ""
 
 
@@ -28,9 +28,9 @@ featured: false
 #  focal_point: Right
 
 links: 
-- icon: fa-link
+- icon: link
   icon_pack: fas
-  name: Get involved
+  name: Get Involved!
   url: https://maydm.org/get-involved/
 url_code: ""
 url_pdf: ""
