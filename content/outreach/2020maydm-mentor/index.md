@@ -1,37 +1,37 @@
 ---
-title: "Big Data, Big Opportunities"
-icon: "fa-play-circle"
-event: Careers at UW Health Facebook Live event
+title: "Mentor for Maydm middle school programs"
+icon: "fa-hands-helping"
+event: "Maydm middle school programs: STEM Power is Girl Power (STEM Sampler) and Wonderful World of Web Development"
 event_url: ""
 location: Madison, WI, Unites States.
-summary: "Facebook live event for promoting career opportunities at UW Health Enterprise Analytics"
+summary: "Mentor for middle school students participating in two Maydm summer STEM online camps: STEM Power is Girl Power (STEP Sampler) and Wonderful World of Web Development"
 abstract: ""
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-02-27T13:00:00"
-# date_end: "2018-12-10T15:00:00"
+date: "2020-06-25T13:00:00"
+date_end: "2020-07-30T15:00:00"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Da-Inn Erika Lee", "Suzy Greblo", "Alex Harrington"]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: falses
+featured: false
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
 links: 
-- icon: facebook
-  icon_pack: fab
-  name: Video
-  url: https://www.facebook.com/uwhealthcareers/videos/vb.44711468807/10156095506728808/?type=2&theater
+- icon: fa-link
+  icon_pack: fas
+  name: Get involved
+  url: https://maydm.org/get-involved/
 url_code: ""
 url_pdf: ""
 url_slides: ""
