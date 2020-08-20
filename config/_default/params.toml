@@ -146,7 +146,7 @@ address_format = "en-us"
 ############################
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
-abstract_length = 200
+abstract_length = 180
 
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
