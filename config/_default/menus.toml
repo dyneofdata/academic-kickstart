@@ -28,7 +28,10 @@
   url = "#posters"
   weight = 35
 
-
+[[main]]
+  name = "Teaching"
+  url = "teaching"
+  weight = 50
 [[main]]
   name = "Outreach"
   url = "#outreach"

@@ -12,7 +12,7 @@
 {{ if in (slice "talk" "poster") $item.Type }} 
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
-{{ else if eq $item.Type "outreach" }}
+{{ else if in (slice "outreach" "teaching") $item.Type }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
 {{ else if eq $item.Type "publication" }}
@@ -45,7 +45,7 @@
           <i class= "fas {{$icon}} pub-icon" aria-hidden="true" style="color:#417E6C"></i>
 	   {{end}}
 
-       {{ if eq $item.Type "outreach" }}
+       {{ if in (slice "outreach" "teaching") $item.Type }}
           <i class= "fas {{ $item.Params.icon }} pub-icon" aria-hidden="true" style="color:#417E6C"></i> 
 		  <span style="font-size:1rem">{{ $item.Title }}</span>
        {{else}}
