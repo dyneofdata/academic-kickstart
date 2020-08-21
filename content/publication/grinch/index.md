@@ -46,7 +46,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Overview of [**GRiNCH**](https://roy-lab.github.io/grinch/)'
-  focal_point: "smart"
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).
