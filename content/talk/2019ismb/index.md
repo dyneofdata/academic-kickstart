@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: 20190722_ISMB_FINAL.pdf
+url_slides: https://drive.google.com/file/d/1l0zqfkUqGbVkYmZzjtQw-X3Mk4gupDQi/view?usp=sharing
 url_code:
 url_pdf:
 url_video:
