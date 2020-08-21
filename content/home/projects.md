@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
+  
+  [[content.filter_button]]
+    name = "Dimension Reduction"
+    tag = "Dimension Reduction"
 
   [[content.filter_button]]
     name = "Data Visualization"

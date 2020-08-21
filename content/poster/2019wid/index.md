@@ -4,8 +4,8 @@ poster: true
 event: Wisconsin Institute for Discovery (WID) Symposium 
 event_url: https://wid.wisc.edu/2019-wid-symposium/
 location: Madison, WI, United States
-summary: ""
-abstract: "A poster introducing 3D genome and matrix factorization to a general audience"
+summary: "A poster introducing 3D genome and matrix factorization to a general audience"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
