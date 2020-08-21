@@ -46,8 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
+url_slides: 20190722_ISMB_FINAL.pdf
 url_code:
 url_pdf:
 url_video:

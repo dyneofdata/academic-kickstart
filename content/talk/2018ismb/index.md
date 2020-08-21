@@ -32,7 +32,7 @@ featured: false
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: 20180707_ISMB_Slides_Final.pdf
 url_video: ""
 
 # Markdown Slides (optional).
