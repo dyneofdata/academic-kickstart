@@ -61,7 +61,7 @@
 
     <div class="stream-meta article-metadata">
 
-     {{ if eq $item.Type "talk" | "poster" }}
+     {{ if (eq $item.Type "talk") | (eq $item.Type "poster") }}
         <div>
           <span>
             {{ partial "functions/get_event_dates" $item }}
