@@ -8,7 +8,7 @@ title = "Awards & Honors"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 55
 
 # Date format for awards
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
