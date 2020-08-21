@@ -81,40 +81,40 @@ date_format = "Jan 2006"
   Tracked virulence patterns of B. cenocepacia in samples from cystic fibrosis patients, maintained growth media stock for bacterial species identification, and scanned in paper patient records into a database adhering to HIPAA standards.
   """
 
-[[experience]]
-  title = "Sweetland Writing Center Tutor"
-  company = "University of Michigan"
-  company_url = ""
-  location = "Ann Arbor, MI"
-  date_start = "2009-09-01"
-  date_end = "2011-04-01"
-  order = 6
-  description = """
-  First trained in a semester-long practicum class on pedagogy of writing; led face-to-face tutoring sessions with undergraduate students on different types of writing & variety of topics - resumes, graduate applications, term papers on philosophy/political science/literature, research summaries on biology/physics independent studies, etc.
-  """
+#[[experience]]
+#  title = "Sweetland Writing Center Tutor"
+#  company = "University of Michigan"
+#  company_url = ""
+#  location = "Ann Arbor, MI"
+#  date_start = "2009-09-01"
+#  date_end = "2011-04-01"
+#  order = 6
+#  description = """
+#  First trained in a semester-long practicum class on pedagogy of writing; led face-to-face tutoring sessions with undergraduate students on different types of writing & variety of topics - resumes, graduate applications, term papers on philosophy/political science/literature, research summaries on biology/physics independent studies, etc.
+#  """
   
-[[experience]]
-  title = "Resident Advisor & Community Assistant"
-  company = "University of Michigan Student Housing"
-  company_url = ""
-  location = "Ann Arbor, MI"
-  date_start = "2008-01-01"
-  date_end = "2011-04-01"
-  order = 7
-  description = """
-  Organized hall events catering to the academic and personal interests of residents, mediated roommate conflicts, and facilitated restorative justice measure for student disciplinary actions.
-  """
+#[[experience]]
+#  title = "Resident Advisor & Community Assistant"
+#  company = "University of Michigan Student Housing"
+#  company_url = ""
+#  location = "Ann Arbor, MI"
+#  date_start = "2008-01-01"
+#  date_end = "2011-04-01"
+#  order = 7
+#  description = """
+#  Organized hall events catering to the academic and personal interests of residents, mediated roommate conflicts, and facilitated restorative justice measure for student disciplinary actions.
+#  """
 
-[[experience]]
-  title = "Math Literacy Worker"
-  company = "The Young People's Project, Inc"
-  company_url = ""
-  location = "Detroit, MI"
-  date_start = "2009-09-01"
-  date_end = "2010-04-01"
-  order = 8
-  description = """
-  Facilitated games and family nights to foster confidence and interest in math among Cooley High School students
-  """
+#[[experience]]
+#  title = "Math Literacy Worker"
+#  company = "The Young People's Project, Inc"
+#  company_url = ""
+#  location = "Detroit, MI"
+#  date_start = "2009-09-01"
+#  date_end = "2010-04-01"
+#  order = 8
+#  description = """
+#  Facilitated games and family nights to foster confidence and interest in math among Cooley High School students
+#  """
 
 +++
