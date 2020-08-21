@@ -34,7 +34,7 @@ featured: false
 #  url: https://twitter.com/georgecushen
 #url_code: ""
 #url_pdf: ""
-url_slides: 20190520_GLBIO_Slides_FINAL.pdf 
+url_slides: https://drive.google.com/file/d/1l5Jdc-nwM8sAC74bQOId8WRY569W2esO/view?usp=sharing 
 #url_video: ""
 
 # Markdown Slides (optional).
