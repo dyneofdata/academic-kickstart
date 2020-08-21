@@ -62,11 +62,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+slides: ""
 
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
