@@ -26,7 +26,11 @@ featured: falses
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-#links: 
+#links:
+- icon: image
+  icon_pack: fas
+  name: Poster
+  url: https://drive.google.com/file/d/1lBRGjPY4rCSwUWBuWhuLFvo_E0VanfRu/view?usp=sharing 
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow

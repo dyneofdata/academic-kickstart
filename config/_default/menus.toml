@@ -24,14 +24,21 @@
   weight = 30
 
 [[main]]
-  name = "Awards"
-  url = "#awards"
-  weight = 40
+  name = "Posters"
+  url = "#posters"
+  weight = 35
+
 
 [[main]]
   name = "Outreach"
   url = "#outreach"
   weight = 60
+
+[[main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 65
+
 [[main]]
   name = "Projects"
   url = "#projects"
