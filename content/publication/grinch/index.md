@@ -16,7 +16,7 @@ publishDate: "2020-08-17T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "now on bioRxiv"
 publication_short: ""
 
 abstract: The three-dimensional (3D) organization of the genome plays a critical role in gene regulation for diverse normal and disease processes. High-throughput chromosome conformation capture (3C) assays, such as Hi-C, SPRITE, GAM, and HiChIP, have revealed higher-order organizational units such as topologically associating domains (TADs), which can shape the regulatory landscape governing downstream phenotypes. Analysis of high-throughput 3C data depends on the sequencing depth, which directly affects the resolution and the sparsity of the generated 3D contact count map. Identification of TADs remains a significant challenge due to the sensitivity of existing methods to resolution and sparsity. Here we present GRiNCH, a novel matrix-factorization-based approach for simultaneous TAD discovery and smoothing of contact count matrices from high-throughput 3C data. GRiNCH TADs are enriched in known architectural proteins and chromatin modification signals and are stable to the resolution, and sparsity of the input data. GRiNCH smoothing improves the recovery of structure and significant interactions from low-depth datasets. Furthermore, enrichment analysis of 746 transcription factor motifs in GRiNCH TADs from developmental time-course and cell-line Hi-C datasets predicted transcription factors with potentially novel genome organization roles. GRiNCH is a broadly applicable tool for the analysis of high throughput 3C datasets from a variety of platforms including SPRITE and HiChIP to understand 3D genome organization in diverse biological contexts.
@@ -46,7 +46,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Overview of [**GRiNCH**](https://roy-lab.github.io/grinch/)'
-  focal_point: ""
+  focal_point: "smart"
   preview_only: false
 
 # Associated Projects (optional).
@@ -55,7 +55,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-#- internal-project
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -65,8 +65,8 @@ projects: []
 slides: example
 ---
 
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
