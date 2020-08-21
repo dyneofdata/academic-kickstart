@@ -15,6 +15,9 @@
 {{ else if eq $item.Type "outreach" }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
+{{ else if eq $item.Type "poster" }}
+  {{ $show_authors_only = true }}
+  {{ $show_buttons = true }}
 {{ else if eq $item.Type "publication" }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
@@ -37,21 +40,19 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-	{{ if eq $item.Type "talk" }}
-          {{ if $item.Params.poster }}
-            {{ $icon = "fa-image" }}
-          {{ else }}
-            {{ $icon = "fa-comment" }}
-          {{ end }}
+	   {{ if eq $item.Type "talk" }}
+          {{ $icon = "fa-comment" }}
           <i class= "fas {{$icon}} pub-icon" aria-hidden="true" style="color:#417E6C"></i>
-        {{ end }}
-        {{ if eq $item.Type "outreach" }}
+       {{ else if eq $item.Type "poster" }}
+          {{ $icon = "fa-image" }}
+          <i class= "fas {{$icon}} pub-icon" aria-hidden="true" style="color:#417E6C"></i>
+       {{ else if eq $item.Type "outreach" }}
           <i class= "fas {{ $item.Params.icon }} pub-icon" aria-hidden="true" style="color:#417E6C"></i> <span style="font-size:1rem">{{ $item.Title }}</span>
-        {{else}}
+       {{else}}
           <span style="font-size:1rem">
           <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
           </span>
-        {{end}}
+       {{end}}
     </h3>
 
 
