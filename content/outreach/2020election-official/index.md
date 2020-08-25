@@ -4,7 +4,7 @@ icon: "fa-vote-yea"
 event: "2020 WI partisan primary, general election"
 event_url: ""
 location: Madison, WI, Unites States.
-summary: "Due to the pandemic, there is a national shortage of poll workers and confusion around in-person and mail-in voting logistics. Consider getting educated and involved!" 
+summary: "Due to the pandemic, there is a nation-wide shortage of poll workers and confusion around in-person and mail-in voting logistics. Consider getting educated and involved!" 
 abstract: ""
 
 
