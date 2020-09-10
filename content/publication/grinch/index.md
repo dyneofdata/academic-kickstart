@@ -32,7 +32,7 @@ featured: true
 
 links:
 #- preprint: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
-url: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
+#url: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
 url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2.full.pdf
 url_code: https://roy-lab.github.io/grinch/
 url_dataset: ''
