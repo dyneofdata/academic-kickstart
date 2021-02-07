@@ -14,17 +14,6 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Database & Systems"
-  description = """
-  SQL (Oracle, MS) <br/>
-  AWS <br/>
-  Hadoop <br/>
-  Spark <br/>
-  Linux <br/>
-  """
   
 [[feature]]
   icon = "file-code"
@@ -38,7 +27,29 @@ subtitle = ""
   MATLAB <br/>
   Julia <br/>
   """
-  
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Open Reproducible Science"
+  description = """
+  Git <br/>
+  Jupyter Notebook <br/>
+  Snakemake <br/>
+  """
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database & Systems"
+  description = """
+  SQL (Oracle, MS) <br/>
+  AWS <br/>
+  Hadoop <br/>
+  Spark <br/>
+  Linux <br/>
+  """
+
 [[feature]]
   icon = "chart-pie"
   icon_pack = "fas"
@@ -48,5 +59,7 @@ subtitle = ""
   Qlik Sense <br/>
   Tableau <br/>
   """
+
+
 
 +++
