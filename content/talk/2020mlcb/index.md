@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Detecting higher-order structural changes in 3D genome organization with multi-task matrix factorization"
-event: Machine Learning in Computational Biolog (MLCB) 
+event: Machine Learning in Computational Biology (MLCB) 
 event_url: https://sites.google.com/cs.washington.edu/mlcb2020/
 location: Virtual/online
 address: 
