@@ -68,7 +68,7 @@
             <span>{{ . }}</span>
           {{ end }}
         </div>
-      {{ else if eq $item.Type "outreach" }}
+      {{ else if in (slice "outreach" "teaching") $item.Type }}
         <div>
           <span>
             {{ partial "functions/get_event_dates" $item }}

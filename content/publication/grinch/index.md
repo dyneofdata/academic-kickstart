@@ -1,5 +1,5 @@
 ---
-title: "Graph-regularized matrix factorization for reliable detection of topological units from high-throughput chromosome conformation capture datasets"
+title: "Simultaneous smoothing and detection of topological units of genome organization from sparse chromatin contact count matrices with matrix factorization"
 authors:
 - Da-Inn Lee
 - Sushmita Roy
@@ -31,9 +31,9 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v1.full.pdf+html
+#- preprint: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
+#url: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2.full.pdf
 url_code: https://roy-lab.github.io/grinch/
 url_dataset: ''
 url_poster: ''
