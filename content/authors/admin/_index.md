@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Dimension Reduction
 - Manifold Learning
-- Interpretable Models
+- Probabilistic Graphical Models
 - 3D Genome
 - Single-cell omics
 - Microbiome
