@@ -50,15 +50,15 @@ subtitle = ""
   Linux <br/>
   """
 
-[[feature]]
-  icon = "chart-pie"
-  icon_pack = "fas"
-  name = "Data Visualization"
-  description = """
-  QlikView <br/>
-  Qlik Sense <br/>
-  Tableau <br/>
-  """
+#[[feature]]
+#  icon = "chart-pie"
+#  icon_pack = "fas"
+#  name = "Data Visualization"
+#  description = """
+#  QlikView <br/>
+#  Qlik Sense <br/>
+#  Tableau <br/>
+#  """
 
 
 
