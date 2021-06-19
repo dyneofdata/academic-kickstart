@@ -31,8 +31,9 @@ tags:
 featured: true
 
 links:
-#- preprint: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
-url: https://doi.org/10.1186/s13059-021-02378-z
+- name: Full
+  url: https://doi.org/10.1186/s13059-021-02378-z
+
 url_pdf: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02378-z.pdf
 url_code: https://roy-lab.github.io/grinch/
 url_dataset: ''
