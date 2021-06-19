@@ -1,9 +1,9 @@
 ---
-title: "Simultaneous smoothing and detection of topological units of genome organization from sparse chromatin contact count matrices with matrix factorization"
+title: "GRiNCH: simultaneous smoothing and detection of topological units of genome organization from sparse chromatin contact count matrices with matrix factorization"
 authors:
 - Da-Inn Lee
 - Sushmita Roy
-date: "2020-08-17T00:00:00Z"
+date: "2021-05-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: "2020-08-17T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "preprint on bioRxiv"
-publication_short: ""
+publication: "Genome Biology"
+publication_short: "Genome Biol."
 
-abstract: The three-dimensional (3D) organization of the genome plays a critical role in gene regulation for diverse normal and disease processes. High-throughput chromosome conformation capture (3C) assays, such as Hi-C, SPRITE, GAM, and HiChIP, have revealed higher-order organizational units such as topologically associating domains (TADs), which can shape the regulatory landscape governing downstream phenotypes. Analysis of high-throughput 3C data depends on the sequencing depth, which directly affects the resolution and the sparsity of the generated 3D contact count map. Identification of TADs remains a significant challenge due to the sensitivity of existing methods to resolution and sparsity. Here we present GRiNCH, a novel matrix-factorization-based approach for simultaneous TAD discovery and smoothing of contact count matrices from high-throughput 3C data. GRiNCH TADs are enriched in known architectural proteins and chromatin modification signals and are stable to the resolution, and sparsity of the input data. GRiNCH smoothing improves the recovery of structure and significant interactions from low-depth datasets. Furthermore, enrichment analysis of 746 transcription factor motifs in GRiNCH TADs from developmental time-course and cell-line Hi-C datasets predicted transcription factors with potentially novel genome organization roles. GRiNCH is a broadly applicable tool for the analysis of high throughput 3C datasets from a variety of platforms including SPRITE and HiChIP to understand 3D genome organization in diverse biological contexts.
+abstract: High-throughput chromosome conformation capture assays, such as Hi-C, have shown that the genome is organized into organizational units such as topologically associating domains (TADs), which can impact gene regulatory processes. The sparsity of Hi-C matrices poses a challenge for reliable detection of these units. We present GRiNCH, a constrained matrix-factorization-based approach for simultaneous smoothing and discovery of TADs from sparse contact count matrices. GRiNCH shows superior performance against seven TAD-calling methods and three smoothing methods. GRiNCH is applicable to multiple platforms including SPRITE and HiChIP and can predict novel boundary factors with potential roles in genome organization.
 
 # Summary. An optional shortened abstract.
 summary: Here we present GRiNCH, a novel matrix-factorization-based approach for simultaneous TAD discovery and smoothing of contact count matrices from high-throughput 3C data.
@@ -32,8 +32,8 @@ featured: true
 
 links:
 #- preprint: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
-#url: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.17.254615v2.full.pdf
+url: https://doi.org/10.1186/s13059-021-02378-z
+url_pdf: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02378-z.pdf
 url_code: https://roy-lab.github.io/grinch/
 url_dataset: ''
 url_poster: ''
