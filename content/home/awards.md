@@ -15,6 +15,20 @@ weight = 55
 date_format = "2006"
 
 [[award]]
+  title = "Predoctoral fellowship in Computation and Informatics in Biology and Medicine (CIBM)"
+  date_start = "2021-10-01"
+  description = """
+  The CIBM program at UW-Madison, supported by the National Library of Medicine (NLM), trains and mentors future biomedical informatics researchers.
+  """
+
+[[award]]
+  title = "Honorable Mention in Morgridge Institute for Research Ethics Cartooning Contest"
+  date_start = "2021-10-01"
+  description = """
+  For my cartoon submission Telephone Game (see [award announcement](https://morgridge.org/story/top-prizes-in-ethics-cartooning-contest-address-covid-19-and-more/)).
+  """
+
+[[award]]
   title = "Student Research Grants Competition (SRGC) Travel Award"
   date_start = "2019-10-01"
   description = """
@@ -34,6 +48,7 @@ date_format = "2006"
   description = """
   For poster presentation on "GRINCH: Discovering structural units of chromosomes with graph-regularized matrix factorization" at the RECOMB/RSGDREAM conference.
   """
+
 [[award]]
   title = "Hopwood Underclassmen Fiction Award"
   date_start = "2009-10-01"
