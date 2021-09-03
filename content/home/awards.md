@@ -8,7 +8,7 @@ title = "Awards & Honors"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 55
+weight = 30 
 
 # Date format for awards
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,7 +18,7 @@ date_format = "2006"
   title = "Predoctoral fellowship in Computation and Informatics in Biology and Medicine (CIBM)"
   date_start = "2021-10-01"
   description = """
-  The CIBM program at UW-Madison, supported by the National Library of Medicine (NLM), trains and mentors future biomedical informatics researchers.
+  The [CIBM program](http://www.cibm.wisc.edu/) at UW-Madison, supported by the National Library of Medicine (NLM), trains and mentors future biomedical informatics researchers.
   """
 
 [[award]]
