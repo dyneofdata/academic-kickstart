@@ -1,17 +1,17 @@
 ---
-title: "Election official and voter education ambassador for the City of Madison"
-icon: "fa-vote-yea"
-event: "2020 WI partisan primary, general election"
+title: "Mentor for 2 graduate rotation students in Roy Lab"
+icon: "fa-hands-helping"
+event: ""
 event_url: ""
 location: Madison, WI, Unites States.
-summary: "Due to the pandemic, there is a nation-wide shortage of poll workers and confusion around in-person and mail-in voting logistics. Consider getting educated and involved!" 
+summary: "Provide guidance for literature review; weekly or biweekly meetings to review experiment plan, results, and progress; provide feedback on lab meeting presentations"
 abstract: ""
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-08-07T13:00:00"
-date_end: "2021-04-30T15:00:00"
+date: "2022-01-20T13:00:00"
+date_end: "2022-07-30T15:00:00"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -28,14 +28,10 @@ featured: false
 #  focal_point: Right
 
 links: 
-- icon: link
-  icon_pack: fas
-  name: Vote 411
-  url: https://www.vote411.org/
-- icon: link
-  icon_pack: fas
-  name: Work Elections
-  url: https://www.workelections.com/
+#- icon: link
+#  icon_pack: fas
+#  name: WICSERS
+#  url: https://wiscers.cs.wisc.edu/ 
 url_code: ""
 url_pdf: ""
 url_slides: ""
