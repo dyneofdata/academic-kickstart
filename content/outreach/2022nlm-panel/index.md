@@ -1,5 +1,5 @@
 ---
-title: "Panelist for "The Road Forward for Informatics: Future Directions for the Next Five Years in our Field" at the 2022 NLM Informatics Training Conference"
+title: "Panelist on *The Road Forward for Informatics: Future Directions for the Next Five Years in our Field* at the 2022 NLM Informatics Training Conference"
 icon: "fa-comments"
 event: ""
 event_url: ""
