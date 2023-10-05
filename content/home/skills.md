@@ -21,8 +21,7 @@ subtitle = ""
   name = "Programming Languages"
   description = """
   Python <br/>
-  C++ <br/>
-  C <br/>
+  C/C++ <br/>
   Java <br/>
   R <br/>
   MATLAB <br/>
