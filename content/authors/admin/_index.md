@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Biomedical Data Science
     institution: University of Wisconsin, Madison
-    year: 2023
+    year: 2024
   - course: MSc in Computer Sciences
     institution: University of Wisconsin, Madison
     year: 2017
