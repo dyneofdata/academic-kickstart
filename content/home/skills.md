@@ -22,6 +22,7 @@ subtitle = ""
   description = """
   Python <br/>
   C++ <br/>
+  C <br/>
   Java <br/>
   R <br/>
   MATLAB <br/>
@@ -34,8 +35,10 @@ subtitle = ""
   name = "Open Reproducible Science"
   description = """
   Git <br/>
+  Conda <br/>
   Jupyter Notebook <br/>
   Snakemake <br/>
+  Docker <br/>
   """
 
 [[feature]]
