@@ -16,7 +16,7 @@ abstract: "Three-dimensional (3D) genome organization, which determines how the 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-07-10T16:20:22-06:00
+date: 2022-07-14T16:20:22-06:00
 #date_end: 2019-12-10T16:20:22-06:00
 all_day: true
 
