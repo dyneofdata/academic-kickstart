@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   order = 1
   description = """
   I developed machine learning algorithms to discover the building blocks of 3D genome organization and to identify changes in 3D genome across developmental or disease trajectories. In addition to my core research, I acted as: 
-  * Presenter, tutorial workshop host, and panelist at national and international research conferences
-  * Mentor for K-12, undergraduate, and graduate students interested in computer science or research
+  * Presenter, workshop host, and panelist at national and international research conferences
+  * Mentor for elementary school to graduate students interested in computer science or research
   * Reviewer for various scientific publication and conferences
   * Guest lecturer and grader for a gradute course on computational network biology
   """
