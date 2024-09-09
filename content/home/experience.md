@@ -27,12 +27,11 @@ date_format = "Jan 2006"
   date_end = ""
   order = 1
   description = """
-3D organization of the genome forms a scaffold for gene regulatory networks governing development, disease, and evolution. As part of the Roy Lab, I am or will be developing computational methods to:
-
-* discover the building blocks of 3D genome organization;
-* identify differential organization across developmental or disease trajectories;
-* predict 3D structure from publicly available epigenetic datasets.
-
+  I developed machine learning algorithms to discover the building blocks of 3D genome organization and to identify changes in 3D genome across developmental or disease trajectories. In addition to my core research, I acted as: 
+  * Presenter, tutorial workshop host, and panelist at national and international research conferences
+  * Mentor for K-12, undergraduate, and graduate students interested in computer science or research
+  * Reviewer for various scientific publication and conferences
+  * Guest lecturer and grader for a gradute course on computational network biology
   """
 
 [[experience]]
@@ -69,17 +68,17 @@ date_format = "Jan 2006"
   * Taught new-hire application fundamentals & configuration class
   """
   
-[[experience]]
-  title = "Research & Laboratory Assistant"
-  company = "University of Michigan Health System"
-  company_url = ""
-  location = "Ann Arbor, MI"
-  date_start = "2007-11-01"
-  date_end = "2011-05-01"
-  order = 5
-  description = """
-  Tracked virulence patterns of B. cenocepacia in samples from cystic fibrosis patients, maintained growth media stock for bacterial species identification, and scanned in paper patient records into a database adhering to HIPAA standards.
-  """
+#[[experience]]
+#  title = "Research & Laboratory Assistant"
+#  company = "University of Michigan Health System"
+#  company_url = ""
+#  location = "Ann Arbor, MI"
+#  date_start = "2007-11-01"
+#  date_end = "2011-05-01"
+#  order = 5
+#  description = """
+#  Tracked virulence patterns of B. cenocepacia in samples from cystic fibrosis patients, maintained growth media stock for bacterial species identification, and scanned in paper patient records into a database adhering to HIPAA standards.
+#  """
 
 #[[experience]]
 #  title = "Sweetland Writing Center Tutor"
