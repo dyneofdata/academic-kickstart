@@ -18,11 +18,11 @@ organizations:
   url: "https://roylab.discovery.wisc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD student developing machine learning algorithms to study how the DNA folds inside the cell. 
 
 interests:
 - Dimension Reduction
-- Manifold Learning
+- Graph embedding
 - Probabilistic Graphical Models
 - 3D Genome
 - Single-cell omics
@@ -76,4 +76,4 @@ user_groups: []
 ---
 <br/>
 
-I am a PhD student in [Biomedical Data Science](https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab](https://roylab.discovery.wisc.edu/). I develop and implement machine learning algorithms to study how the DNA folds itself inside the cell. More specifically, I use dimension reduction methods to find structural units of the 3D genome, how they change under different biological contexts like cell lineages, diesease, and species, and how these structure and their dynamcis build a scaffolding for gene regulatory networks.
+I am a PhD student in [Biomedical Data Science](https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab](https://roylab.discovery.wisc.edu/). I develop and implement machine learning algorithms to study how the DNA folds itself inside the cell. More specifically, I use matrix factorization and multi-task learning to find the structural units of 3D genome organization, and how they change under different cell lineages, diseases, and species.
