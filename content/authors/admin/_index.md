@@ -76,6 +76,4 @@ user_groups: []
 ---
 <br/>
 
-I am a PhD student in [Biomedical Data Science](https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab](https://roylab.discovery.wisc.edu/). 
-#Our lab specializes in developing computational tools to gain insight from large biological networks.
-In my research, I develop and implement machine learning algorithms to study how the DNA folds itself inside the cell. More specifically, I use dimension reduction methods to find structural units of the 3D genome, how they change under different biological contexts like cell lineages, diesease, and species, and how these structure and their dynamcis build a scaffolding for gene regulatory networks.
+I am a PhD student in [Biomedical Data Science](https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab](https://roylab.discovery.wisc.edu/). I develop and implement machine learning algorithms to study how the DNA folds itself inside the cell. More specifically, I use dimension reduction methods to find structural units of the 3D genome, how they change under different biological contexts like cell lineages, diesease, and species, and how these structure and their dynamcis build a scaffolding for gene regulatory networks.
