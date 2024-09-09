@@ -35,7 +35,7 @@ links:
 - name: Full
   url: https://doi.org/10.1101/2023.08.25.554883 
 
-url_pdf: https://www.biorxiv.org/content/10.1101/2023.08.25.554883v1.full.pdf 
+url_pdf: https://www.biorxiv.org/content/10.1101/2023.08.25.554883v2.full.pdf 
 url_code: https://github.com/Roy-lab/tgif
 url_dataset: ''
 url_poster: ''
