@@ -45,11 +45,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Database & Systems"
   description = """
+  Linux <br/>
   SQL (Oracle, MS) <br/>
   AWS <br/>
   Hadoop <br/>
   Spark <br/>
-  Linux <br/>
   """
 
 #[[feature]]
