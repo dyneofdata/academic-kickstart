@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dlee324@wisc.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dyne0102@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dyneofdata
@@ -76,4 +76,4 @@ user_groups: []
 ---
 <br/>
 
-I am a PhD student in [Biomedical Data Science](https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab](https://roylab.discovery.wisc.edu/). Our lab specializes in developing computational tools to gain insight from large biological networks. My current project involves learning the organizational principles of how the DNA folds itself inside the cell, and how this in turn builds a scaffolding for gene regulatory networks.
+I am a PhD student in [Biomedical Data Science](https://www.biostat.wisc.edu/) at the University of Wisconsin - Madison, working in [Sushmita Roy's lab](https://roylab.discovery.wisc.edu/). Our lab specializes in developing computational tools to gain insight from large biological networks. In my research, I develop and implement machine learning algorithms to study how the DNA folds itself inside the cell. More specifically, I use dimension reduction methods to find structural units of the 3D genome, how they change under different biological contexts like cell lineages, diesease, and species, and how these structure and their dynamcis build a scaffolding for gene regulatory networks.
